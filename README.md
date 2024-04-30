@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ricardo and I go by @Bertl-81W✨.
-- 👀 I’m interested in change of careers by learning how to write code and make it do wonderful things.🤖  
-- 🌱 Completed courses at FreeCodeCamp, currently learning React on Scrimba as part of the Frontend Career Path. I am also working on projects to build a portfolio for myself.💪
-- 💞️ I’m looking to collaborate on everything!🤝
-- 📫 Anyone can reach out to me at 👉ricardoweiss1012@gmail.com.👈
+- 👋 Hi, I am Ricardo and I go by @Bertl-81W✨.
+- 👀 I’m interested in problem solving challenegs, writing code and make it do wonderful things.🤖  
+- 🌱 I have completed courses at FreeCodeCamp, and the Scrimba Frontend Career Path.💪
+- 💞️ I’m looking to collaborate, learn and grow.🤝
+- 📫 Reach out to me at 👉ricardoweiss1012@gmail.com.👈
 
 
